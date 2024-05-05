@@ -57,7 +57,7 @@ The report comprises of 4 pages:
 
 This analysis reveals annual members accounts for the majority of total rides at 64.6%, with casual riders making up 35.4%of total rides. This implies that annual members more engaged with our service, as they are using it more frequently. 
  
-### Popular bike between the user
+### Popular bike among the user
 Let us proceed our analysis by exploring into the most uses bike between the two user type
 
 ![](User_Preferable_bike.JPG)
@@ -96,6 +96,22 @@ Member                                             |                            
 
 The analysis reveals a notable difference in station usage between casual and annual members.  Among casual users, Street Dr & Grand Ave emerges as both the most frequently used starting and ending station, with 43371 and 47718 total rides respectively. In contrast, among annual members, Clinton St & Washington  blvd is the top starting and ending station, with 24321 and 25496 total rides respectively.
 
+## Conclusions:
+- **Annual Member Dominance:** The analysis demonstrates that annual members contribute significantly to Cyclistic's ridership, representing 64.6% of total rides during the twelve-month period. 
+- **Preference for Classic Bikes:** Both annual members and casual users mostly opt for classic bikes. 
+- **Weekday vs. Weekend Usage Patterns:** As revealed by the data, annual members constitently contribute a higher number of rides during the weekdays compared to weekend ride, while casual users exhibit a significant increase in rides on Saturdays and Sundays.
+- **Usage Duration and Distance:** Casual users tend to ride longer distances and utilize bikes for extended durations compared to annual members. 
+- **Seasonal Trends**: There is a clear seasonal trend in bike-sharing usage, with increased rides during warmer months and decreased activity during colder months.
+- **Station Usage Differences:** Station preferences differ between casual and annual members, with distinct starting and ending stations for each users.
+
+## Recommendations:
+- **Targeted Promotions:** Develop targeted marketing campaigns that emphasize the benefits of annual memberships. Tailor promotions to address specific needs and preferences identified among casual riders.
+- **Weekend Promotions:** Launch promotional offers and encouragement towards casual users during weekends, taking the advantage of the rush in weekend usage.
+- **Seasonal Campaigns:** Plan seasonal marketing campaigns to coincide with periods of increased bike-sharing activity. Utilize seasonal themes and messaging to promote annual memberships as ideal companions for seasonal adventures and outdoor activities.
+- **Location-Based Marketing:** Promote annual memberships at stations with high casual user usage, emphasizing the convenience and benefits of membership.
+- **Referral Programs:** Implement referral programs that encourage current annual members to refer casual riders to sign up for annual memberships. Offer rewards or discounts for successful conversions, leveraging the power of word-of-mouth marketing.
+  
+By implementing these strategies, Cyclistic can effectively convert casual riders into  annual members, driving long-term growth and sustainability for the bike-share program.
 
 
 
